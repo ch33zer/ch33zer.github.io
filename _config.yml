@@ -1,8 +1,0 @@
-title: blaisewatson.me
-description: An occasional blog by an occasional dude
-google_analytics: UA-11237293-7
-show_downloads: true
-theme: jekyll-theme-slate
-
-gems:
-  - jekyll-mentions
