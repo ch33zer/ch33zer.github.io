@@ -18,7 +18,7 @@ Here's a selection of software projects you may find interesting:
 * [Zoom](https://blaise.gg/zoom/index.html) [Github](https://github.com/ch33zer/zoom) - Create a zoomable fractal character string. Try passing the `?chars=<string>` URL parameter, like [this](https://blaise.gg/zoom/index.html?chars=金魚)
 * [Shapes](https://blaise.gg/shapes/index.html) [Github](https://github.com/ch33zer/shapes) - Animation of a neat shape. Absolutely pointless, except that I really like it :D
 * [Advent of Code 2023](https://github.com/ch33zer/aoc2023) - Archive of my solutions to Advent of Code for 2023	
-* [Self deleting](self-deleting-production.self-deletion.workers.dev) (GitHub)[https://github.com/ch33zer/self-deleting] - Every time anyone accesses the page a random character is deleted.
+* [Self deleting](self-deleting-production.self-deletion.workers.dev) [GitHub](https://github.com/ch33zer/self-deleting) - Every time anyone accesses the page a random character is deleted.
 
 ## Biking
 
