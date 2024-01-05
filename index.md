@@ -4,6 +4,8 @@ Hello! This is my (Blaise Watson's) site where where I post projects and sporadi
 
 I'm looking for work! Reach out at [dblaisewatson@gmail.com](mailto:dblaisewatson@gmail.com)
 
+Resume available [here](resume.pdf)
+
 ## Software
 
 Here's my github: [https://github.com/ch33zer](https://github.com/ch33zer)
