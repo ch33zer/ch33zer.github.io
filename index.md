@@ -1,5 +1,3 @@
-# Blaise Watson
-
 Hello! This is my (Blaise Watson's) site where where I post projects and sporadically blog. It's the best place to keep up to date on me and things I'm working on.
 
 ## Work
