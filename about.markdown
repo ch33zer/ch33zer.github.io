@@ -1,10 +1,10 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
 Hello! This is my (Blaise Watson's) site where where I post projects and sporadically blog. It's the best place to keep up to date on me and things I'm working on.
-
-## Work
-
-I'm looking for work! Reach out at [dblaisewatson@gmail.com](mailto:dblaisewatson@gmail.com)
-
-Resume available [here](resume.pdf)
 
 ## Software
 
@@ -23,3 +23,9 @@ Here's a selection of software projects you may find interesting:
 ## Biking
 
 I love road/mountain/long distance biking. Here's a blog from a 2021 bike ride I did across the US: [http://blaise.bike](http://blaise.bike). Here's my [Strava](https://www.strava.com/athletes/9430660).
+
+## Work
+
+I'm looking for work! Reach out at [dblaisewatson@gmail.com](mailto:dblaisewatson@gmail.com)
+
+Resume available [here](resume.pdf)
