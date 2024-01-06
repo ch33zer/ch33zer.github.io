@@ -44,4 +44,4 @@ This is what we call in backend software the **Model View Controller** pattern, 
 
 ## Conclusion
 
-Follow the above simple rules and you
+Follow the above simple rules and you can build the perfect frontend. It will be inscrutable, make sense only by you, and entirely unusable on any device but your own. True perfection.
