@@ -2,7 +2,7 @@
 layout: post
 title:  "Frontend for Backend Engineers"
 date:   2024-01-05 19:22:24 -0800
-categories: software
+tags: software
 layout: plain
 ---
 *This post is a joke, please don't take it seriously*
