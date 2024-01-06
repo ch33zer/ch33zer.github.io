@@ -9,9 +9,9 @@ layout: plain
 
 # It's just a frontend...
 
-You were just minding your own business, working on migrating data from last weeks database to this weeks database when you manager comes over. *Hey, do you think you could put together a little UI to show us what the servers view of it's data is? Some of the QA testers have been seeing weird issues with inconsistent data and they think this will help them debug. No, I don't think we can push out that migration, just squeeze it in when you have time. After all, it's just a frontend*. Sweat starts dripping down your brow. The last UI you built was back in college and that was using some wordpress blog magic. Doesn't frontend stuff change all the time? Don't some companies pay exorbitant salaries for talented frontend engineers. What's a web component or a react?
+You were just minding your own business, working on migrating data from last weeks database to this weeks database when you manager comes over. *Hey, do you think you could put together a little UI to show us what the servers view of it's data is? Some of the QA testers have been seeing weird issues with inconsistent data and they think this will help them debug. No, I don't think we can push out that migration, just squeeze it in when you have time. After all, it's just a frontend*. Sweat starts dripping down your brow. The last UI you built was back in college and that was using some wordpress blog magic. Doesn't frontend stuff change all the time? Don't some companies pay exorbitant salaries for talented frontend engineers? What's a web component or a react?
 
-First of all take a deep breath. This guide will teach you everything you need to know to implement a frontend for any app.
+First of all take a deep breath. This guide will teach you everything you need to know to implement a frontend for any backend.
 
 ## Rules
 
@@ -41,3 +41,7 @@ This is what we call in backend software the **Model View Controller** pattern, 
 **Security**: Unnecessary, you're probably on a VPN or something.
 
 **Testing**: Hahahaha
+
+## Conclusion
+
+Follow the above simple rules and you
